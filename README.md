@@ -1,4 +1,9 @@
-## Hi there 👋
+# Isaiah W. Hayes
+
+## About Me:
+I have 15 years of hands-on experience developing and scaling high-quality software QA teams across startups, agencies, and enterprise-level companies. My work appears across software products from Activision, Boeing, Evergreen Exhibits, Intel, Harbor Freight Tools, and many more.
+
+Most recently, my work included applied AI initiatives: custom GPTs, RAG pipelines, and custom-built deterministic prediction models that drive measurable business impact.
 
 <!--
 **IsaiahWHayes/IsaiahWHayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
